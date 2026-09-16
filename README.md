@@ -24,7 +24,7 @@ The programs are organized using filenames such as:
 - `p04.c`
 - `p05.c`
 - `...`
-- `p17.c`
+
 
 ## How to Compile and Run
 
